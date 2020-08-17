@@ -8,8 +8,8 @@ The script doesn't require a requirements.txt installer nor a virtual environmen
 ```sh
 python Blackjack.py
 ```
-<strong>NOTE: This is a safe script, but always check on which kind of script you are running on your PC, specially when it's been downloaded from the Internet!</strong> 
-<strong>NOTE 2: The code documentation can be found inside the script.</strong> 
+**NOTE: This is a safe script, but always check on which kind of script you are running on your PC, specially when it's been downloaded from the Internet!**<br> 
+**NOTE 2: The code documentation can be found inside the script.**
 
 ## Game Instructions
 The instructions can be found by executing the script, the prompts lead you to do what is needed. But here is a breakdown of the game:
