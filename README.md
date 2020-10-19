@@ -1,6 +1,11 @@
 # Python-Blackjack
 ## A Blackjack game with a custom AI in Python.
 
+## Table of content
+  - [Installation](#installation)
+  - [Instructions](#instructions)
+  - [Next Steps](#next-steps)
+
 ### Installation
 This projects was developed using Python 3.8.5. For more information on how to install Python, refer to [the official website](https://www.python.org/).<br>
 
@@ -8,10 +13,16 @@ The script doesn't require a requirements.txt installer nor a virtual environmen
 ```sh
 python Blackjack.py
 ```
+
+For a Linux distribution, most likely run:
+```sh
+python3 Blackjack.py
+```
+
 **NOTE: This is a safe script, but always check on which kind of script you are running on your PC, specially when it's been downloaded from the Internet!**<br> 
 **NOTE 2: The code documentation can be found inside the script.**
 
-## Game Instructions
+## Instructions
 The instructions can be found by executing the script, the prompts lead you to do what is needed. But here is a breakdown of the game:
 
 **RULES**:
